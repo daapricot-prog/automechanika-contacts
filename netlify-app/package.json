@@ -1,0 +1,8 @@
+{
+  "name": "automechanika-contacts-shared",
+  "private": true,
+  "type": "module",
+  "dependencies": {
+    "@netlify/blobs": "latest"
+  }
+}
