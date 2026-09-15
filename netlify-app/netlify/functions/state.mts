@@ -16,6 +16,7 @@ const CONTACTS = [
   ["SEG Automotive Germany GmbH","Enes Mesic","Key Account Manager Aftermarket","Germany","Stuttgart","+49 152 52357431","enes.mesic@seg-automotive.com","www.seg-automotive.com","Aftermarket"],
   ["STAR SERVICE S.A.","Gabriel Lungu","Director General","Romania","Iași","0743 846 217","gabriel.lungu@starservice.ro","www.starservice.ro",""],
   ["PARTNERS","Stéphanie Bach","Spare parts and accessories Manager","France","Antony","+33 (0)1 47 11 07 14","stephanie.bach@partners-supply.com","www.partners-supply.com",""],
+  ["PARTNERS","V. Kozlov","","France","Antony","+33 (0)1 57 19 07 14","v.kozlov@partners-supply.com","www.partners-supply.com","Purchasing office; automotive and heavy-truck spare parts; export"],
   ["AXIO PARTS S.R.L.","Wilson Brucognoni","Business Development","Italy","Rivoli (TO)","+39 346 1289760","sales@axioparts.com","www.axioparts.com",""],
   ["FREY AUTO PARTS","Ricky Shu","Business Director, Middle East","China","Guangzhou","+86 177 7517 2928; +86 20 8389 3802","parts10@cfrey.com","www.freyautoparts.com",""],
   ["HOTBRAY / Eurospare / Armstrong","Jemma Lee","Sales Executive","United Kingdom","","+44 208 54 57 783","jemmal@hotbray.net","www.hotbray.co.uk",""],
